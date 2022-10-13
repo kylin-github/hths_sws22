@@ -370,3 +370,9 @@ footer {
   content: '>';
   right: 0;
 }
+
+#flyer {
+    align-self: center;
+    margin-left: 450px;
+    text-align: center;
+}
